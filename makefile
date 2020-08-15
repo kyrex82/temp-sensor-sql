@@ -1,0 +1,1 @@
+gcc ./temp-sensor-sql -o temp-sensor-sql -lmysqlclient -I /usr/include/mysql
